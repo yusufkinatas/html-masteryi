@@ -1,0 +1,137 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #32130b;
+    padding-top: 70px;
+}
+
+hr {
+    border-top: 3px solid #392218;
+}
+
+.text-bold {
+    font-weight: 600;
+}
+
+.title-super {
+    font-size: 30px;
+}
+
+.title-big {
+    font-size: 25px;
+}
+
+.title-logo {
+    margin-top: 5px;
+}
+
+.my-navbar{
+    background-color: #dac397;
+    border: 4px solid #a78063;
+    height: 135,2px;
+}
+
+.lore-textbox {
+    background-color: #d9be8f;
+    border: 3px solid #a78063;
+}
+
+.lore-imagebox {
+    float: right;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: 3px solid #352213;
+    max-width: 355.2px;
+}
+
+.lore-container {
+    float: right;
+    max-width: 400px;
+    margin-right: -5px;
+}
+
+.montage-box {
+    border-bottom: 1px solid #392218;
+}
+
+.montage-video {
+    border: 2px solid #352213;
+    margin-bottom: 10px;
+}
+
+.link {
+    height: 135.8px;
+    text-align: center;
+    color: #32130b;
+    text-decoration: none;
+    background-color: none;
+    border: 4px outset #e8af79;
+}
+.link:active,
+.link:hover {
+  background-color: none;
+}
+
+.link-current {
+    height: 135.8px;
+    text-align: center;
+    color: #32130b;
+    text-decoration: none;
+    background-color: none;
+    border: 4px solid #f68418;
+}
+
+.build-box {
+    border: 2px solid #583e33;
+    background-color: #debe92;
+    text-align: center;
+}
+
+.build-text {
+    border: 2px solid #d3ae81;
+    border-radius: 5px;
+    background-color: #d5b384;
+}
+
+.cover{
+    margin-top: 10px;
+}
+
+.skill-text {
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.skill-name {
+    margin-top: 5px;
+}
+.skill-pic {
+    float: left;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 8px;
+}
+
+.skill-box {
+    border: 2px solid #26202a;
+    border-radius: 5px;
+    background-color: #d5b384;
+    min-height: 125px;
+    margin-bottom: 5px;
+    width: 70%;
+}
+
+.index-imagebox {
+    float: right;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: 3px solid #352213;
+    width: 100%;
+}
+
+.index-container {
+    float: right;
+    width: 30%;
+    margin-right: -5px;
+}
